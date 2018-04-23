@@ -1,7 +1,6 @@
 package cn.edu.gdmec.android.bbxuegu;
 
 
-import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
@@ -20,6 +19,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import cn.edu.gdmec.android.bbxuegu.utils.AnalysisUtils;
+
+
+//使用fragment碎片
 
 
 public class MainActivity extends FragmentActivity implements View.OnClickListener{
